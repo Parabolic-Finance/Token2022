@@ -1,0 +1,16 @@
+{
+  "name": "PARABOLIC AI",
+  "symbol": "PAI",
+  "description": "PARABOLIC AI UTILITY TOKEN",
+  "image": "https://cdn.prod.website-files.com/67f3684b75022f901c16b97e/6871a29f031fbd1abf0f6d34_logo400x400.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.prod.website-files.com/67f3684b75022f901c16b97e/6871a29f031fbd1abf0f6d34_logo400x400.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
