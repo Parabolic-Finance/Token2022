@@ -2,12 +2,12 @@
   "name": "Clue",
   "symbol": "Clue",
   "description": "Clue Token",
-  "image": "https://raw.githubusercontent.com/Parabolic-Finance/Token2022/refs/heads/main/Clue_Logo.png",
+  "image": "https://raw.githubusercontent.com/Parabolic-Finance/Token2022/refs/heads/main/Clue400x400.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Parabolic-Finance/Token2022/refs/heads/main/Clue_Logo.png",
+        "uri": "https://raw.githubusercontent.com/Parabolic-Finance/Token2022/refs/heads/main/Clue400x400.png",
         "type": "image/png"
       }
     ],
