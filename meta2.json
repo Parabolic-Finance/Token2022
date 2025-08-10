@@ -2,12 +2,12 @@
   "name": "Bitcoin",
   "symbol": "BTC",
   "description": "Wrapped Bitcoin",
-  "image": "https://cdn.prod.website-files.com/67f3684b75022f901c16b97e/6871a29f031fbd1abf0f6d34_logo400x400.png",
+  "image": "https://raw.githubusercontent.com/Parabolic-Finance/Token2022/a8554030a717e73d1a92479e78047e1bbccc3eed/bitcoin-btc-logo512-512.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://cdn.prod.website-files.com/67f3684b75022f901c16b97e/6871a29f031fbd1abf0f6d34_logo400x400.png",
+        "uri": "https://raw.githubusercontent.com/Parabolic-Finance/Token2022/a8554030a717e73d1a92479e78047e1bbccc3eed/bitcoin-btc-logo512-512.png",
         "type": "image/png"
       }
     ],
